@@ -27,26 +27,26 @@ const Footer = () => {
               <Link href="/research" className="block text-neutral-400 hover:text-white transition-colors">
                 Market Research
               </Link>
-              <div className="block text-neutral-400">
+              <Link href="/financials" className="block text-neutral-400 hover:text-white transition-colors">
                 Financial Projections
-              </div>
+              </Link>
             </div>
           </div>
           
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Company</h3>
-            <div className="space-y-3">
-              <div className="block text-neutral-400">
-                About Us
-              </div>
-              <div className="block text-neutral-400">
-                Team
-              </div>
-              <div className="block text-neutral-400">
-                Contact
+                      <div>
+              <h3 className="text-lg font-semibold mb-4">Company</h3>
+              <div className="space-y-3">
+                <Link href="/about" className="block text-neutral-400 hover:text-white transition-colors">
+                  About Us
+                </Link>
+                <Link href="/team" className="block text-neutral-400 hover:text-white transition-colors">
+                  Team
+                </Link>
+                <Link href="/contact" className="block text-neutral-400 hover:text-white transition-colors">
+                  Contact
+                </Link>
               </div>
             </div>
-          </div>
         </div>
         
         <div className="border-t border-neutral-800 mt-12 pt-8 text-center text-neutral-500">

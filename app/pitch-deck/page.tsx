@@ -209,10 +209,10 @@ const PitchDeckPage = () => {
               <div className="w-20 h-20 bg-primary-600 rounded-2xl flex items-center justify-center mx-auto mb-6">
                 <Users className="w-10 h-10 text-white" />
               </div>
-              <h4 className="text-2xl font-bold text-center mb-4">CEO/Inventor</h4>
-              <p className="text-neutral-700 text-center mb-6">
-                Financial genius with 40+ years of executive experience (CFO to C-Suite), patent holder and proven innovator who understands both product development and financial scaling
-              </p>
+                             <h4 className="text-2xl font-bold text-center mb-4">Tim Bint - CEO & Inventor</h4>
+               <p className="text-neutral-700 text-center mb-6">
+                 Financial genius with 40+ years of executive experience (CFO to C-Suite), patent holder and proven innovator who understands both product development and financial scaling
+               </p>
               <div className="text-center">
                 <span className="inline-block bg-primary-600 text-white px-4 py-2 rounded-full text-sm font-semibold">
                   40+ Years Experience
@@ -223,10 +223,10 @@ const PitchDeckPage = () => {
               <div className="w-20 h-20 bg-accent-600 rounded-2xl flex items-center justify-center mx-auto mb-6">
                 <TrendingUp className="w-10 h-10 text-white" />
               </div>
-              <h4 className="text-2xl font-bold text-center mb-4">VP Sales & Marketing</h4>
-              <p className="text-neutral-700 text-center mb-6">
-                Young, highly driven sales prodigy with relentless determination to succeed, exceptional marketing skills, and extensive cross-industry connections spanning multiple sectors
-              </p>
+                             <h4 className="text-2xl font-bold text-center mb-4">Paul O'Donnell - VP Sales & Marketing</h4>
+               <p className="text-neutral-700 text-center mb-6">
+                 Young, highly driven sales prodigy with relentless determination to succeed, exceptional marketing skills, and extensive cross-industry connections spanning multiple sectors
+               </p>
               <div className="text-center">
                 <span className="inline-block bg-accent-600 text-white px-4 py-2 rounded-full text-sm font-semibold">
                   Unstoppable Drive

@@ -20,11 +20,23 @@ const Navigation = () => {
             <Link href="/" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
               Home
             </Link>
+            <Link href="/about" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+              About Us
+            </Link>
+            <Link href="/team" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+              Team
+            </Link>
             <Link href="/pitch-deck" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
               Investor Deck
             </Link>
             <Link href="/research" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
               Research & Strategy
+            </Link>
+            <Link href="/financials" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+              Financial Projections
+            </Link>
+            <Link href="/contact" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+              Contact
             </Link>
             <Link href="/pitch-deck" className="bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors">
               View Pitch Deck
@@ -47,11 +59,23 @@ const Navigation = () => {
               <Link href="/" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
                 Home
               </Link>
+              <Link href="/about" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+                About Us
+              </Link>
+              <Link href="/team" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+                Team
+              </Link>
               <Link href="/pitch-deck" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
                 Investor Deck
               </Link>
               <Link href="/research" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
                 Research & Strategy
+              </Link>
+              <Link href="/financials" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+                Financial Projections
+              </Link>
+              <Link href="/contact" className="text-neutral-700 hover:text-primary-600 font-medium transition-colors">
+                Contact
               </Link>
               <Link href="/pitch-deck" className="bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors text-center">
                 View Pitch Deck
