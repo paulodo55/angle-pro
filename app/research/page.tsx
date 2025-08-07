@@ -137,9 +137,9 @@ const ResearchPage = () => {
               <div className="text-neutral-600">Professional market growing rapidly with specialized tool needs</div>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg text-center">
-              <div className="text-5xl font-bold text-primary-600 mb-4">$926M</div>
-              <div className="text-xl font-semibold mb-2">Scrub Daddy Success</div>
-              <div className="text-neutral-600">Proven model for innovative cleaning product success</div>
+              <div className="text-5xl font-bold text-primary-600 mb-4">12%</div>
+              <div className="text-xl font-semibold mb-2">Premium Tool Growth</div>
+              <div className="text-neutral-600">Annual growth rate for premium automotive cleaning tools</div>
             </div>
           </div>
           

@@ -119,8 +119,8 @@ const PitchDeckPage = () => {
                 <div className="text-neutral-600">US households own vehicles</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-accent-600 mb-2">$926M</div>
-                <div className="text-neutral-600">Scrub Daddy lifetime sales</div>
+                <div className="text-3xl font-bold text-accent-600 mb-2">$3.2B</div>
+                <div className="text-neutral-600">Car cleaning products market</div>
               </div>
               <div>
                 <div className="text-3xl font-bold text-primary-600 mb-2">15,000+</div>
@@ -467,7 +467,7 @@ const PitchDeckPage = () => {
               Ready to Join the Revolution?
             </h2>
             <p className="text-xl mb-12 max-w-3xl mx-auto opacity-90">
-              AnglePro represents a unique opportunity to transform a patent-protected innovation into the next breakout consumer product success story.
+              AnglePro represents a unique opportunity to transform a patent-protected innovation into a market-leading automotive cleaning solution with massive growth potential.
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
               <a href="/research" className="bg-white text-primary-600 px-10 py-5 rounded-lg font-semibold text-xl hover:bg-neutral-100 transition-all duration-300 inline-flex items-center gap-3">

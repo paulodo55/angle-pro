@@ -183,7 +183,7 @@ const HomePage = () => {
               {
                 icon: Award,
                 title: "First-Mover Advantage",
-                description: "No existing competitors with automotive-specific angled squeegees. Market education opportunity similar to Scrub Daddy's approach.",
+                description: "No existing competitors with automotive-specific angled squeegees. Clear market education opportunity with proven consumer demand.",
                 highlight: "Zero Competition"
               },
               {
@@ -230,7 +230,7 @@ const HomePage = () => {
               Investment Opportunity
             </h2>
             <p className="text-xl mb-12 max-w-3xl mx-auto opacity-90">
-              Join us in transforming a patent-protected innovation into the next breakout consumer product success story
+              Join us in transforming a patent-protected innovation into a market-leading automotive cleaning solution
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
